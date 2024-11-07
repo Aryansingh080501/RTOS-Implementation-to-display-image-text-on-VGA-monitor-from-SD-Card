@@ -31,6 +31,6 @@ Data stored on the SD card can include graphics or text, which are processed and
 A VGA controller is used to render graphical output on a connected monitor.
 The display configuration, handled through **I2C**, includes setting resolution, color depth, and refresh rates for seamless display integration.
 
-##Check out the project demo:
+## Check out the project demo:
 
 [![Watch the video](https://img.youtube.com/vi/xAq_KLtvIPU/0.jpg)](https://www.youtube.com/watch?v=xAq_KLtvIPU)
