@@ -2,6 +2,10 @@
 
 This project demonstrates an embedded system design using the Nios II processor on the DE2-115 FPGA board, interfacing with an SD card and VGA monitor through I2C and SPI communication protocols. The system is programmed in C and runs on a Real-Time Operating System (RTOS) environment.
 
+Check out the project demo:
+
+[![Watch the video](https://img.youtube.com/vi/xAq_KLtvIPU/0.jpg)](https://www.youtube.com/watch?v=xAq_KLtvIPU)
+
 ## Project Overview
 
 This project aims to integrate various components on an FPGA-based embedded system to:
