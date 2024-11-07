@@ -2,10 +2,6 @@
 
 This project demonstrates an embedded system design using the Nios II processor on the DE2-115 FPGA board, interfacing with an SD card and VGA monitor through I2C and SPI communication protocols. The system is programmed in C and runs on a Real-Time Operating System (RTOS) environment.
 
-Check out the project demo:
-
-[![Watch the video](https://img.youtube.com/vi/xAq_KLtvIPU/0.jpg)](https://www.youtube.com/watch?v=xAq_KLtvIPU)
-
 ## Project Overview
 
 This project aims to integrate various components on an FPGA-based embedded system to:
@@ -34,3 +30,7 @@ Data stored on the SD card can include graphics or text, which are processed and
 ### 3. VGA Display (I2C Protocol)
 A VGA controller is used to render graphical output on a connected monitor.
 The display configuration, handled through **I2C**, includes setting resolution, color depth, and refresh rates for seamless display integration.
+
+##Check out the project demo:
+
+[![Watch the video](https://img.youtube.com/vi/xAq_KLtvIPU/0.jpg)](https://www.youtube.com/watch?v=xAq_KLtvIPU)
